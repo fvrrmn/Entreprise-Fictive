@@ -5,13 +5,13 @@
 
 ---
 
-## 📡 Schéma de l’architecture réseau physique
+### 📡 Schéma de l’architecture réseau physique
 
 ![Architecture réseau Batchzzard](Images/Batchzzard_Architecture.png)
 
 ---
 
-## 🧩 Plan d’adressage IP
+### 🧩 Plan d’adressage IP
 
 | 🖧 Périphérique          | 📡 Adresse IP        | 💻 Hostname              | 🎯 Rôle/Fonction                 | 🔗 Adresse MAC      | 📍 Emplacement          |
 |--------------------------|----------------------|---------------------------|----------------------------------|----------------------|--------------------------|
