@@ -3,7 +3,7 @@
 - [x] Installation et configuration du serveur DHCP
 - [x] Mise en place et configuration du serveur DNS
 - [x] Déploiement d’Active Directory et des stratégies de groupe (GPO)
-- [ ] Tests de connexion et intégration au domaine Active Directory
+- [ ] Tests de toutes les fonctionnalités avec des commandes Powershell
 
 ---
 
