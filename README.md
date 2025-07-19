@@ -27,12 +27,13 @@ La société compte une vingtaine d’utilisateurs répartis en plusieurs servic
 ### 🖥️ Étape 2 : Serveur
 - [x] Création d’une machine virtuelle Windows Server 2019 Standard
 - [x] Installation et configuration du serveur DHCP
-- [ ] Mise en place et configuration du serveur DNS
-- [ ] Déploiement d’Active Directory et des stratégies de groupe (GPO)
+- [x] Mise en place et configuration du serveur DNS
+- [x] Déploiement d’Active Directory et des stratégies de groupe (GPO)
+- [ ] Tests de toutes les fonctionnalités avec des commandes Powershell
 
 ### 🖥️ Étape 3 : Clients
-- [ ] Création d’une machine virtuelle Windows 11
-- [ ] Tests de connexion et intégration au domaine Active Directory
+- [x] Création d’une machine virtuelle Windows 11
+- [x] Tests de connexion et intégration au domaine Active Directory
 
 ### ✨ Étape 4 : Extensions
 - [ ] Mise en place d’un serveur de fichiers pour centraliser les données
