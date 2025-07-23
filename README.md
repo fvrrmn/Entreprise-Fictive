@@ -1,10 +1,22 @@
-# 🚀 Entreprise-Fictive
+<div align="center">
 
-**Simulation complète de l’infrastructure réseau d’une entreprise fictive sous Windows Server 2019**
+# 🧠 winserver2019-lab
+
+</div>
+
+[![Status](https://img.shields.io/badge/status-En%20cours-yellow)]()
+[![Windows Server 2019](https://img.shields.io/badge/OS-Windows%20Server%202019-blue)]()
+[![Virtualization](https://img.shields.io/badge/VM-VirtualBox-informational)]()
+
+*Simulation de l'infrastructure réseau d'une entreprise fictive, déployée sous Windows Server 2019 dans un environnement virtualisé*
 
 ---
 
+<div align="center">
+
 ## 📖 Synopsis
+
+</div>
 
 Batchzzard est une entreprise fictive spécialisée dans l'achat et la revente de matériel informatique ainsi que de solutions logicielles destinées aux professionnels.
 
@@ -18,20 +30,24 @@ La société compte une vingtaine d’utilisateurs répartis en plusieurs servic
 
 ---
 
-## 📂 Contenu du projet
+<div align="center">
 
-### 🛠️ Étape 1 : Conception
+## 📂 Contenu
+
+</div>
+
+### [🔗 Étape 1 – Conception](./conception/)
 - [x] Schéma de l’architecture réseau physique
 - [x] Plan d’adressage IP
 
-### 🖥️ Étape 2 : Serveur
+### [🔗 Étape 2 – Serveur](./serveur/)
 - [x] Création d’une machine virtuelle Windows Server 2019 Standard
 - [x] Installation et configuration du serveur DHCP
 - [x] Mise en place et configuration du serveur DNS
 - [x] Déploiement d’Active Directory et des stratégies de groupe (GPO)
 - [ ] Tests de toutes les fonctionnalités avec des commandes Powershell
 
-### 🖥️ Étape 3 : Clients
+### [🔗 Étape 3 – Clients](./clients/)
 - [x] Création d’une machine virtuelle Windows 11
 - [x] Tests de connexion et intégration au domaine Active Directory
 
@@ -44,7 +60,11 @@ La société compte une vingtaine d’utilisateurs répartis en plusieurs servic
 
 ---
 
+<div align="center">
+
 ## 🛠️ Technologies et outils utilisés
+
+</div>
 
 - Cisco Packet Tracer
 - VirtualBox
