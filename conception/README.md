@@ -1,25 +1,15 @@
-<div align="center">
-
 ## 🛠️ Étape 1 : Conception
-
-</div>
 
 - [x] Schéma de l’architecture réseau physique  
 - [x] Plan d’adressage IP  
 
 ---
 
-<div align="center">
-
 ### 📡 Schéma de l’architecture réseau physique
 
 ![Architecture réseau Batchzzard](images/architecture_batchzzard.png)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 🧩 Plan d’adressage IP
 
@@ -32,5 +22,3 @@
 | Printer-PT               | 192.168.1.10         | PRINTER-VENTE-01          | Impression réseau                | 00E0.F737.48D9       | Bureau des ventes        |
 | Printer-PT               | 192.168.1.13         | PRINTER-PRODUCTION-01     | Impression réseau                | 000D.BDD2.5974       | Bureau de production     |
 | Printer-PT               | 192.168.1.16         | PRINTER-LOGISTIQUE-01     | Impression réseau                | 0060.4704.7550       | Bureau de la logistique  |
-
-</div>
